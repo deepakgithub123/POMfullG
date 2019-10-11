@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="layerSettings.General">
+        <methods>
+          <include name="GIN52"/>
+          <include name="tearDown"/>
+          <include name="InitializeSuite"/>
+          <include name="GIN55"/>
+          <include name="scrShot"/>
+          <include name="GIN53"/>
+          <include name="GIN54"/>
+          <include name="GIN51"/>
+        </methods>
+      </class> <!-- layerSettings.General -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

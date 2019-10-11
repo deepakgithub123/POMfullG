@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/selenium-server-standalone-2.48.2.jar" sourcepath="Jars/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
